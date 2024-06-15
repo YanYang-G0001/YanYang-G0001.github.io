@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Yanyang Gong
+description: Late-stage J-type, always on the path of evolution.
+url: https://yanyang-g0001.github.io/github.io/
+avatar: /avatar.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /3.jpg
 
 # Gems
 plugins:
@@ -28,15 +28,12 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Yanyang Gong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/YanYang-G0001
+    - https://www.linkedin.com/in/%E5%A6%8D%E6%B4%8B-%E9%BE%9A-aubrey/
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +51,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Yanyang Gong
+  url: https://github.com/YanYang-G0001
+  email: yanyang.gong@uzh.ch
