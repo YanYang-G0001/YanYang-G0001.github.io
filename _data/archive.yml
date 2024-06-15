@@ -2,9 +2,9 @@
   title: About
   url: /about/
 
-- type: dates
+- type: project
   title: Project
-  url: /dates/
+  url: /project/
 #- type: categories
 #  title: Categories
 #  url: /categories/
