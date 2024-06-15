@@ -3,7 +3,7 @@ layout: post
 title: Testing MathJax
 tags: mathjax
 math: true
-date: 2020-10-02 15:32 +0800
+date: 2024-06-01 15:32 +0800
 ---
 # Recent Project
 ## [The Price is Right](https://github.com/sopra-fs24-group-18/sopra-fs24-group-18-server/blob/main/README.md)
