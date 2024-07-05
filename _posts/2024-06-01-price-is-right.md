@@ -10,4 +10,4 @@ date: 2024-06-01
 It's a price guessing game developed by me and my classmates.
 
 The application is built on Spring Boot, RESTful Web Services, Google Cloud services, React, and the eBay API.
-![Project Demo](https://github.com/YanYang-G0001/github.io/blob/master/project1.png)
+![Project Demo](https://raw.githubusercontent.com/YanYang-G0001/github.io/master/project1.png)
