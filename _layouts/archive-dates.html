@@ -6,6 +6,9 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
+{%- assign taxonomies = site.posts | group_by_exp: "post", "post.date | date: '%Y'" -%}
+
+{% comment %}
 <div class="taxonomies-wrapper">
   <ul class="taxonomies">
     {%- for taxonomy in taxonomies -%}
@@ -19,6 +22,7 @@ layout: default
     {%- endfor -%}
   </ul>
 </div>
+{% endcomment %}
 
 {% comment %} Show posts by taxonomy {% endcomment %}
 {%- for taxonomy in taxonomies -%}
