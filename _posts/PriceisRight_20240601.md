@@ -1,9 +1,8 @@
 ---
-layout: archive-taxonomies
-title: project1
-type: project
-math: true
-date: 2024-06-01 15:32 +0800
+layout: post
+title: "The Price is Right"
+type: post
+date: 2024-06-01
 ---
 # Recent Project
 ## [The Price is Right](https://github.com/sopra-fs24-group-18/sopra-fs24-group-18-server/blob/main/README.md)
