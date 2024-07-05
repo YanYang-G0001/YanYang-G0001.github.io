@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Testing MathJax
-tags: mathjax
+layout: archive-taxonomies
+title: project1
+type: project
 math: true
 date: 2024-06-01 15:32 +0800
 ---
