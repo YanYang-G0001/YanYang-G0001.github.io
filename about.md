@@ -3,6 +3,9 @@ layout: page
 title: About
 ---
 
-I am a master's student at the University of Zurich, majoring in Data Science and Informatics. 
+Hi, I am a master's student at the University of Zurich, majoring in Data Science and Informatics. 
 
-With over two years of hands-on experience in data analysis and a background in financial engineering, I am passionate about managing and utilizing massive datasets to enhance decision-making processes.
+With over two years of hands-on experience in data analysis, my skills include Python, Java, SQL, Software Engineering, and Project Management. Additionally, I am a fast learner, enjoy tackling challenges, and trying new things.
+
+My enthusiasm lies in effectively managing and utilizing extensive datasets to enhance decision-making processes.
+
