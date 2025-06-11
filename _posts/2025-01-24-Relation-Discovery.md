@@ -3,22 +3,30 @@ layout: post
 title: "Interactive Visual Analysis Empower Relation-Discovery"
 type: post
 date: 2025-01-24
+tags:
+  - Data Visualization
+  - Interactive Design
+  - Python
+  - React
+  - FastAPI
+  - D3.js
 ---
-This interactive visualization tool was designed and developed as part of our Master's project. Its goal is to help non-expert users explore relationships between attributes in tabular data using interactive binning.
+📂 Source code unavailable due to collaboration restrictions.
 
-Through a comprehensive literature review of visualization techniques and algorithms for relation discovery, we iterated through several design versions before building a tool that allows users to upload their own CSV data and explore it through flexible, intuitive visualizations.
-The tool features an easy-to-navigate interface that guides users through a step-by-step exploration of their datasets. 
+This interactive visualization tool was developed as part of our Master’s project to help non-expert users explore relationships between attributes in tabular data through interactive binning techniques.
 
-The tool is built using React, Python, FastAPI, and D3.js.
+Based on an extensive literature review of visualization methods and relation discovery algorithms, we iteratively refined the design before delivering a tool that allows users to upload CSV files and explore data via intuitive, step-by-step visualizations. The interface guides users through their datasets in an accessible and flexible way.
 
-Below, you'll find our User & Task Characterization[1] and Design Evolution for further details.
-![User & Task Characterization](https://raw.githubusercontent.com/YanYang-G0001/github.io/master/project2_1.jpg)
-![UDesign Evolution](https://raw.githubusercontent.com/YanYang-G0001/github.io/master/project2_2.jpg)
+The application stack includes **React** for the frontend, **Python** and **FastAPI** for the backend, and **D3.js** for dynamic visual rendering.
 
 
 
-## References
-1. Munzner, T. (2014). *Visualization analysis and design*. CRC Press.
+### My Contributions
+
+- Conducted literature review on interactive visualization design and relation discovery algorithms
+- Led frontend and interaction design (UI/UX)
+- Authored project report and documentation
+
 
 
 

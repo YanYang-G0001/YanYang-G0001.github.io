@@ -32,6 +32,8 @@
 @import "alignment";
 
 @import "syntax-light";
+@import "tags";
+
 @media (prefers-color-scheme: dark) {
   @import "syntax-dark";
 }

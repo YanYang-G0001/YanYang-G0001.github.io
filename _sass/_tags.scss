@@ -1,0 +1,23 @@
+.post-tags {
+  margin-top: 4px;
+  font-size: 0.85em;
+  color: #fff3bf !important;
+  font-weight: normal;
+
+  a.post-tag-link {
+    background-color: #dee2e64d;
+    color: #f1d350 !important;
+    text-decoration: none;
+    padding: 2px 6px;
+    margin-right: 6px;
+    border-radius: 3px;
+    font-weight: normal;
+    font-size: 0.85em;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+      background-color: #b0b0b0;
+      color: #000;
+    }
+  }
+}
