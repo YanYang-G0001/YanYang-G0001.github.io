@@ -19,7 +19,7 @@ This project focuses on working with complex healthcare data from the Physionet 
 - Implemented representation learning using an LSTM Autoencoder, trained linear probes based on extracted embeddings for comparison, and visualized embeddings with t-SNE
 - Overall discussion and key findings summarization
 
-Below, you'll find part of our reports.
+Below, you'll find some results of our reports.
 ![Data Exploration](https://raw.githubusercontent.com/YanYang-G0001/github.io/master/img/data_exploration_time_series.png)
 ![Model Performance Comparison](https://raw.githubusercontent.com/YanYang-G0001/github.io/master/img/time_series_model_comp.png)
 ![LSTM Autoencoder Architecture](https://raw.githubusercontent.com/YanYang-G0001/github.io/master/img/autoencoder_architecture.png)
