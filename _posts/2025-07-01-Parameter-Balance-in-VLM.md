@@ -2,7 +2,7 @@
 layout: post
 title: "Which Side Should We Scale? Revisiting Parameter Balance in Vision-Language Models (Ongoing)"
 type: post
-date: 2025-07-01
+date: 2025-06-01
 tags:
   - Vision-Language Models
   - Dual-Encoder Architecture
