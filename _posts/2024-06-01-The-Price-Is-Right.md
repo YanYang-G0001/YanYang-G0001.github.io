@@ -4,10 +4,9 @@ title: "The Price is Right"
 type: post
 date: 2024-06-01
 tags:
-  - code available
-  - Web App
+  - Full Stack
+  - Web Development
   - Java
-  - JavaScript
   - Spring Boot
   - React
   - RESTful API
@@ -21,7 +20,7 @@ This project is an interactive price guessing game supporting multiple players a
 ### Technology Stack
 The application is built on Spring Boot, RESTful Web Services, Google Cloud services, React, and the eBay API.
 
-### My Role
+### Contributions
 
 - Developing backend logic and RESTful endpoints
 - Integrating third-party APIs (eBay)

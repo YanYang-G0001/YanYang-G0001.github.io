@@ -4,15 +4,13 @@ title: "Interactive Data Analysis Tool for Diabetes Risk in Healthcare"
 type: post
 date: 2025-01-19
 tags:
-  - code available
-  - Data Visualization
-  - Interactive Design
   - Healthcare
-  - Python
+  - Data Visualization
+  - Interactive Systems
   - FastAPI
   - Vue
+  - Python
 ---
-
 📂 [GitHub Repository](https://github.com/YanYang-G0001/IVDA_T3_EASTDATAVIS_BACKEND/tree/main)
 
 This project developed a visual analytics platform designed for healthcare professionals to investigate the relationships between various factors and diabetes risk, leveraging data from the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) dataset.

@@ -4,16 +4,15 @@ title: "Time Series Modeling for Mortality Predictions"
 type: post
 date: 2025-06-01
 tags:
-  - Data Preprocessing
+  - ML in Healthcare
+  - Time Series
   - Representation Learning
-  - Healthcare
-  - Python
   - Pytorch
+  - Data Preprocessing
 ---
-📂 Source code unavailable due to collaboration restrictions.
 
 This project focuses on working with complex healthcare data from the Physionet 2012 Challenge dataset, which contains 48 hours of intensive care data used to predict patient mortality. It involves handling noisy, sparse, and irregularly-sampled multi-variate data through preprocessing, exploration, supervised learning, representation learning, and leveraging large language models (LLMs) for embedding extraction and analysis.
-### My Contributions
+### Contributions
 
 - Performed data preprocessing and exploratory analysis, including data transformation, handling missing values, standardization, and distribution visualization
 - Implemented representation learning using an LSTM Autoencoder, trained linear probes based on extracted embeddings for comparison, and visualized embeddings with t-SNE

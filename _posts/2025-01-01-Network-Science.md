@@ -4,10 +4,9 @@ title: "Analysis of Software Dependency Networks"
 type: post
 date: 2025-01-01
 tags:
-  - code available
   - Network Analysis
   - Python
-  - networkx
+  - Networkx
 ---
 📂[GitHub Repository](https://github.com/YanYang-G0001/NetworkScience_Group15/blob/main/README.md)
 

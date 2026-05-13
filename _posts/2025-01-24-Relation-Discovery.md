@@ -5,13 +5,13 @@ type: post
 date: 2025-01-24
 tags:
   - Data Visualization
-  - Interactive Design
-  - Python
+  - Human-Computer Interaction
+  - Interactive Systems
   - React
   - FastAPI
   - D3.js
+  - Python
 ---
-📂 Source code unavailable due to collaboration restrictions.
 
 This interactive visualization tool was developed as part of our Master’s project to help non-expert users explore relationships between attributes in tabular data through interactive binning techniques.
 

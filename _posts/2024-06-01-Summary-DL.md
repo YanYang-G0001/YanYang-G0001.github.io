@@ -7,10 +7,8 @@ tags:
   - Machine Learning
   - Deep Learning
   - PyTorch
-  - numpy
   - CUDA
 ---
-📂 Source code unavailable due to course material restrictions.
 
 This post summarizes several assignments I completed as part of my coursework in machine learning and deep learning. These assignments mainly consist of Jupyter notebooks focused on practical implementations and comparative analyses of various algorithms.
 

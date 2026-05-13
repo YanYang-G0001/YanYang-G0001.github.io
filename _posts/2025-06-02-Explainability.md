@@ -4,16 +4,14 @@ title: "Interpretable and Explainable Classification for Medical Data"
 type: post
 date: 2025-06-01
 tags:
+  - ML in Healthcare
   - Interpretable and explainable ML
-  - Healthcare
   - SHAP
-  - Integrated Gradients
   - Grad-CAM
   - CNN
-  - Data Preprocessing
   - PyTorch
+  - Data Preprocessing
 ---
-📂 Source code unavailable due to collaboration restrictions.
 
 This project explores interpretable and explainable machine learning techniques applied to both tabular and image-based data.
 
