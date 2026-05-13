@@ -4,13 +4,10 @@ title: "A Hybrid Approach for Detecting AI-Generated Text in English"
 type: post
 date: 2026-01-01
 tags:
-  - code available
   - NLP
   - DeBERTa-v3-base
   - DNA-DetectLLM
-  - HuggingFace
   - PyTorch
-  - Python
 ---
 📂[GitHub Repository](https://github.com/YanYang-G0001/A_Hybrid_Approach_for_Detecting_AI_Generated_Text_in_English)
 
